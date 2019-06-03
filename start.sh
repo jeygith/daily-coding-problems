@@ -12,4 +12,4 @@ fi
 git add "${DIR}"
 git commit -m "${TODAY}: started"
 
-nvim "${DIR}/main.js"
+# nvim "${DIR}/main.js"
